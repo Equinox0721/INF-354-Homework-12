@@ -6,7 +6,7 @@
 	  echo("<marquee behavior = 'scroll' direction = 'left' scrollamount = '25'><span style = 'font-size: 16pt'>YOUR NAME AND STUDENT NUMBER HERE</span></marquee>");
 	  echo("<br />");
 	  echo("<br />");
-	  echo("<marquee behavior = 'scroll' direction = 'left' scrollamount = '15'><span style = 'font-size: 12pt'>YOUR NAME AND STUDENT NUMBER HERE</span></marquee>");
+	  echo("<marquee behavior = 'scroll' direction = 'left' scrollamount = '15'><span style = 'font-size: 12pt'>Ferdinand Groenewald - u13046447</span></marquee>");
 	  echo("<br />");
 	  echo("<br />");
 	  echo("<marquee behavior = 'scroll' direction = 'left' scrollamount = '20'><span style = 'font-size: 20pt'>YOUR NAME AND STUDENT NUMBER HERE</span></marquee>");
